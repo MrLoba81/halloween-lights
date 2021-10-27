@@ -1,6 +1,6 @@
 # halloween-lights
 
-Simple lights effects driven by an ATTiny85 assembled with three gadgets grabbed from [Thingiverse](https://www.thingiverse.com/)
+Simple light effects driven by an ATTiny85 assembled with three gadgets grabbed from [Thingiverse](https://www.thingiverse.com/)
 
 - [Halloween Tree Stump LED Candle](https://www.thingiverse.com/thing:4933855) [thing:4933855]
 - [Little Ghost](https://www.thingiverse.com/thing:4966110) [thing:4966110]
