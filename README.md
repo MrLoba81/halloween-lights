@@ -18,3 +18,4 @@ The ATTiny85 has only trhee pwm pins so i can drive only the three leds in the t
 
 Pushing the button you can select only two effects: a breath like effect and a flickering one (Default).  
 
+Look at the [Schema.png](/Schema.png) for the circuit details.
