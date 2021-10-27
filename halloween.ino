@@ -1,3 +1,8 @@
+/*
+    halloween.ino - Simple light effects driven by an ATTiny85
+    Paolo Loberto
+*/
+
 #include <avr/io.h>
 #include <avr/interrupt.h>
 
